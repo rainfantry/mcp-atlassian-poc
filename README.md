@@ -123,4 +123,4 @@ Upgrade to mcp-atlassian v0.22.0.
 
 ## Reporter
 
-George Wu — gwu0738@gmail.com — [github.com/rainfantry](https://github.com/rainfantry)
+George Wu — [github.com/rainfantry](https://github.com/rainfantry)
